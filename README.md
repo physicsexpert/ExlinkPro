@@ -31,7 +31,7 @@
 
 ## 外观对比
 
-<img src="picture/1.jpg" width="90%" />
+<img src="picture/1.jpg" width="100%" />
 
 ## 内部结构
 
