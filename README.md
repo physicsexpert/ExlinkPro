@@ -31,19 +31,19 @@
 
 ## 外观对比
 
-![2026-06-29_20-15-40_153.jpg](https://image.lceda.cn/oshwhub/pullImage/f1543d01928c4f5a8dcfc5620af97ea2.jpg)
+<img src="picture/产品外观对比.jpg" width="60%" />
 
 ## 内部结构
 
-![image.png](https://image.lceda.cn/oshwhub/pullImage/0b052eb83b0a47859c695957d3c73ae2.png)
+<img src="picture/产品外观对比.jpg" width="60%" />
 
 ## 引脚功能界面
  
-![IMG_20260629_203428.jpg](https://image.lceda.cn/oshwhub/pullImage/70cec7364bb444eaa2e501b8d91a1298.jpg)
+<img src="picture/引脚界面.jpg" width="60%" />
 
 ## 数控电源界面
 
-![IMG_20260629_203520.jpg](https://image.lceda.cn/oshwhub/pullImage/e981750f129149aaaea27be791307cb8.jpg)
+<img src="picture/产品外观对比.jpg" width="60%" />
 
 
 ## 排针引脚功能：
@@ -52,10 +52,11 @@
 
 ## 系统框图：
 
-<img src="https://image.lceda.cn/oshwhub/pullImage/c3cccbbb1cdb463eb27d1809a74f07ec.png" width="90%" />
+<img src="picture/系统框图.png" width="60%" />
 
 ## 电源树：
-<img src="https://image.lceda.cn/oshwhub/pullImage/5d7fd379aa9d40969d6b93703448ace3.png" width="100%" />
+
+<img src="picture/电源树.png" width="60%" />
 
 # **硬件改进说明（重要必看！）**
 项目由两块PCB构成，电源控制板为四层板，信号板为两层板，采用分立叠板设计，通过1.27mm排针连接：
