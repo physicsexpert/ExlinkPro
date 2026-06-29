@@ -31,19 +31,19 @@
 
 ## 外观对比
 
-<img src="picture/产品外观对比.jpg" width="60%" />
+<img src="picture/1.jpg" width="60%" />
 
 ## 内部结构
 
-<img src="picture/产品外观对比.jpg" width="60%" />
+<img src="picture/2.jpg" width="60%" />
 
 ## 引脚功能界面
  
-<img src="picture/引脚界面.jpg" width="60%" />
+<img src="picture/3.jpg" width="60%" />
 
 ## 数控电源界面
 
-<img src="picture/产品外观对比.jpg" width="60%" />
+<img src="picture/4.jpg" width="60%" />
 
 
 ## 排针引脚功能：
@@ -52,11 +52,11 @@
 
 ## 系统框图：
 
-<img src="picture/系统框图.png" width="60%" />
+<img src="picture/5.png" width="60%" />
 
 ## 电源树：
 
-<img src="picture/电源树.png" width="60%" />
+<img src="picture/6.png" width="60%" />
 
 # **硬件改进说明（重要必看！）**
 项目由两块PCB构成，电源控制板为四层板，信号板为两层板，采用分立叠板设计，通过1.27mm排针连接：
