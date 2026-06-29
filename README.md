@@ -48,7 +48,7 @@
 
 ## 排针引脚功能：
 
-<img src="https://image.lceda.cn/oshwhub/0afa1e320d0e4fcc945b6800e9ead8a6.png" width="100%" />
+<img src="https://image.lceda.cn/oshwhub/0afa1e320d0e4fcc945b6800e9ead8a6.png" width="60%" />
 
 ## 系统框图：
 
