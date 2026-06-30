@@ -20,12 +20,10 @@
 | 调试功能 | DAPlink、逻辑分析仪、IIC设备地址搜索、串口助手、数控电源、无线下载器、无线串口、PWM输出、简易示波器 | DAPlink、逻辑分析仪、IIC设备地址搜索、串口助手、数控电源、无线下载器、无线串口、PWM输出、简易示波器|
 # **立创开源平台链接：**
 # **资料下载链接：**
-
+## 链接：https://pan.quark.cn/s/7b761f77a70c?pwd=8Xnx
+## 提取码：8Xnx
 
 # **固件烧录教程在**：https://blog.csdn.net/physicsexpert/article/details/145067001?spm=1001.2014.3001.5502
-
-
-
 
 # **产品实物图**
 
